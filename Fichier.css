@@ -1,0 +1,181 @@
+*
+{
+	background-color: #272927;
+}
+p
+{
+	color: white;
+	font-size: 1.2em;
+    text-align: center;
+    clear: right;
+}
+h1 
+{
+    color: white;
+    font-size: 3em;
+    font-family: fantasy;
+    text-align: center;
+    clear: right;
+}
+h2
+{
+	color: white;
+    font-size: 2em;
+    font-family: fantasy;
+    clear: right;
+    border-top: 3px white solid;
+    text-decoration-line: underline;
+    margin-left: 10px;
+}
+h3
+{
+	color: white;
+    font-size: 1.5em;
+    font-family: fantasy;
+    clear: right;
+    clear: right;
+}
+strong
+{
+    background: none;
+}
+a 
+{
+	color: white;
+	font-size: 1.2em;
+    text-align: right;
+	background: none;
+}
+img
+{
+    border-radius: 10px;
+    border: 350px;
+    width: 160px;
+    height: 200px;
+}
+.jeux
+{
+	width: 350px;
+	margin: 22px;
+	clear: both;
+	width: 11.2%;
+	text-align: center;
+    border-radius: 20px;
+	background: none;
+}
+.Nouveautés
+{
+    border: 2px solid white;
+    margin: 12px;
+    clear: both;
+    width: 1480px;
+    height: 290px;
+    text-align: center;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    border-radius: 20px;
+    overflow: auto;
+	background-image: url("file:///D:/Projet%20JV/Fond PS4.jpg");
+}
+.Bientot
+{
+    border: 2px solid white;
+    margin: 12px;
+    clear: both;
+    width: 1480px;
+    height: 290px;
+    text-align: center;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    border-radius: 20px;
+    overflow: auto;
+	background: black;
+}
+.recherche
+{
+    color: white;
+    border-radius: 20px;
+    border: 1px solid white;
+    width: 300px;
+}
+.filtres
+{
+    color: white;
+    width: 400px;
+}
+.liste
+{
+    border: 2px solid white;
+    margin: 12px;
+    clear: both;
+    width: auto;
+    height: auto;
+    text-align: center;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    border-radius: 20px;
+    background: black;
+}
+.Logo
+{
+    border-radius: 50px;
+    float: left;
+    width: 70px;
+    height: auto;
+    margin-left: 10px;
+}
+.nav
+{
+    margin-left: 20px;
+    display: inline-block;
+    font-family: fantasy;
+    border: 2px solid white;
+    border-radius: 37px;
+    background-color: black;
+    padding: 5px;
+}
+.discord
+{
+	margin: 10px;
+	margin-left: 20px;
+	height: 250px;
+}
+.insta
+{
+	margin-bottom: 35px;
+	margin-left: 40px;
+    width: 175px;
+    height: 175px;
+}
+.paypal
+{
+	margin-bottom: 35px;
+	margin-left: 40px;
+    width: 175px;
+    height: 175px;
+}
+.mail
+{
+	color: white;
+	text-align: center;
+	font-size: 1.5em;
+	font-family: fantasy;
+	border: solid white 2px;
+	width: 500px;
+	margin-right: auto;
+	margin-left: auto;
+	padding: 10px;
+	background-color: black;
+}
+strong
+{
+    text-decoration: underline;
+}
+.copyright
+{
+    border-top: 3px white solid;
+    font-size: 1.3em;
+}
